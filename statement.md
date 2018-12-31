@@ -4,6 +4,9 @@ This Bash template lets you get started quickly with a simple one-page playgroun
 
 ```bash runnable
 mkdir hammerTime
+chmod 500 hammerTime
+cd hammerTime
+touch this
 ```
 
 # Advanced usage
