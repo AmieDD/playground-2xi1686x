@@ -3,10 +3,7 @@
 This Bash template lets you get started quickly with a simple one-page playground.
 
 ```bash runnable
-mkdir hammerTime
-chmod 500 hammerTime
-cd hammerTime
-touch this
+whatis
 ```
 
 # Advanced usage
